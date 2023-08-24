@@ -1,8 +1,10 @@
 # pinta-browser
-This repo shows stages of creating my own browser with Python. Pinta comes from The Pinta Island tortoise, an extinct subspecies of Galápagos tortoise native to Ecuador's Pinta Island. 
+This repo shows stages of creating my own browser with Python. Pinta comes from The Pinta Island tortoise, 
+an extinct subspecies of Galápagos tortoise native to Ecuador's Pinta Island. 
 See more here: https://en.wikipedia.org/wiki/Pinta_Island_tortoise.
 ## Main Features
-The idea is inspired by the Arc Browser (https://arc.net/) and my need to switch from MacOS to Linux on which this browser is not available. The main features I want to have are:
+The idea is inspired by the Arc Browser (https://arc.net/) and my need to switch from MacOS to Linux on which 
+this browser is not available. The main features I want to have are:
 - split view: several tabs opened in parallel (side-by-side)
 - integrated bookmarks/tabs sidebar
   - autosaving all changes to json file

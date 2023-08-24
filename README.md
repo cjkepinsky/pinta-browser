@@ -12,11 +12,13 @@ The idea is inspired by the Arc Browser (https://arc.net/) and my need to switch
 - firefox/chrome plugins 
 - free forever
 ## Pre-Alpha
-The browser is in deep pre-alpha stage, it is possible that I will switch to different engine (currently QtWebEngine is used). Tested on MacOS Ventura 13.5 (22G74) only.
+The browser is in deep pre-alpha stage, it is possible that I will switch to different engine (currently QtWebEngine is used). 
+Tested on MacOS Ventura 13.5 (22G74) only with Python 3.9.13.
 ## Installation and usage
+`pipenv install`
 
-pipenv install
-pipenv shell
-python ./pintaXX.py
+`pipenv shell`
+
+`python ./pintaXX.py`
 
 XX - chosen version number of the browser.
